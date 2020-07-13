@@ -26,7 +26,7 @@ public class Main {
             list.add(value);
         }
 
-        setNumberOfAttempts(1);
+        setNumberOfAttempts(10);
 
         Map<Long, String> results = new TreeMap<>();
         long start = System.nanoTime();
