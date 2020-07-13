@@ -1,0 +1,9 @@
+2020-07-14 00:28:13 INFO  Main:45 - Результаты тестов после 1 замеров :
+2020-07-14 00:28:13 INFO  Main:50 - QuickSort - 17150327
+2020-07-14 00:28:13 INFO  Main:50 - Collections.sort - 136900913
+2020-07-14 00:28:13 INFO  Main:50 - InsertionSort - 1093041426
+2020-07-14 00:28:13 INFO  Main:50 - ShuttleSort - 1828906176
+2020-07-14 00:28:13 INFO  Main:50 - SelectionSort - 8247180230
+2020-07-14 00:28:13 INFO  Main:50 - MergeSort - 9380237464
+2020-07-14 00:28:13 INFO  Main:50 - ShellSort - 13726511163
+2020-07-14 00:28:13 INFO  Main:50 - BubbleSort - 29056263337
